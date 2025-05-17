@@ -1,7 +1,6 @@
-### Hi, I'm Joe
+### Joe Hornby
 
-I'm currently a Software Designer at Ford. 
+Designer, engineer and technologist building human-friendly products, prototypes, and tools.
 
-I like building tools and crafting experiences.
-
-Feel free to [get in touch](https://joehornby.co.uk) to see some projects.
+&rarr; `Software Designer at Ford`\
+&rarr; `Founding Design Engineer at Umbi Health`
