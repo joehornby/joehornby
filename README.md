@@ -1,6 +1,6 @@
 ### Joe Hornby
 
-Design engineer.
+Design Engineer at [`Made by Many`](https://www.madebymany.com)
 
 ##### Previously
 &rarr; Software Designer at `Ford`\
